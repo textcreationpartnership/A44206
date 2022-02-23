@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true copie of the speech, made by the Honourable Denzell Holles, Esquire, at a conference by a committee of both Houses of Parliament in the Painted Chamber concerning the protestation fram'd by the House of Commons, which was solemnly made by every member of the same : wherein is set forth the protestation it selfe, and the reasons inducing them to make it : together with their desire, that the Lords would concurre with them in the same zeal and affection for the publick safety : with an explanation upon some doubts made upon the said protestation.</title>
+            <title>Speech at the delivery of the protestation to the Lords of the Upper House of Parliament, May 4, 1641</title>
+            <author>Holles, Denzil Holles, Baron, 1599-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44206</idno>
+            <idno type="STC">Wing H2479</idno>
+            <idno type="STC">ESTC R750</idno>
+            <idno type="EEBO-CITATION">13065059</idno>
+            <idno type="OCLC">ocm 13065059</idno>
+            <idno type="VID">97059</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44206)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97059)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 742:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true copie of the speech, made by the Honourable Denzell Holles, Esquire, at a conference by a committee of both Houses of Parliament in the Painted Chamber concerning the protestation fram'd by the House of Commons, which was solemnly made by every member of the same : wherein is set forth the protestation it selfe, and the reasons inducing them to make it : together with their desire, that the Lords would concurre with them in the same zeal and affection for the publick safety : with an explanation upon some doubts made upon the said protestation.</title>
+                  <title>Speech at the delivery of the protestation to the Lords of the Upper House of Parliament, May 4, 1641</title>
+                  <author>Holles, Denzil Holles, Baron, 1599-1680.</author>
+                  <author>Holles, Denzil Holles, Baron, 1599-1680.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Also published with titles: Densell Hollis, Esq ; his speech at the delivery of the protestation to the Lords of the Upper House of Parliament, May 4, 1641; and A speech of the Honorable Denzell Hollis ... at the delivery of the protestation to the Lords of the Upper House of Parliament, 4. May 1641.</note>
+                  <note>"Directions for more orderly making of the foresaid protestation ... which the Parliament lately made ... by the citie of London, in the severall parish churches", p. 9-10.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament.</term>
+               <term>Oaths --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97059:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 60 -->
+            <p>A true Copie of the SPEECH, Made BY THE HONOURABLE DENZELL HOLLES, ESQUIRE, At a Conference by a Committee of both Houſes of Parliament in the Painted Chamber:</p>
+            <p>Concerning the Proteſtation fram'd by the Houſe of Commons, which was ſolemnly made by every member of the ſame.</p>
+            <p>Wherein is ſet forth the <hi>Proteſtation</hi> it ſelfe, and the reaſons inducing them to make it; Together with their deſire, that the Lords would concurre with them in the ſame zeal and affecti<g ref="char:EOLhyphen"/>on for the publick ſafety.</p>
+            <p>With an explanation upon ſome doubts made upon the ſaid Proteſtation.</p>
+            <p>LONDON.</p>
+            <p>Printed, M.DC.XLI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:97059:2"/>
+            <!-- PDF PAGE 61 -->
+            <pb n="1" facs="tcp:97059:2"/>
+            <!-- PDF PAGE 61 -->
+            <head>A Speech made by the Honoura<g ref="char:EOLhyphen"/>ble DENZELL HOLLES, Eſquire, at a Con<g ref="char:EOLhyphen"/>ference by a Committee of both Houſes of Parliament in the painted Chamber, <hi>May</hi> 4. 1641. in the preſenting of the Proteſtation.</head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Knights, Citizens and Burgeſſes of the Houſe of Commons, having taken into their ſerious conſideration the preſent eſtate and condition of this Kingdome, they find it ſurrounded with variety of pernitious and deſtructive deſignes, practices, and plots againſt the well-being of it, nay, the very being of it, and ſome of theſe deſignes hatched within our owne bowels, and, viper-like, working our deſtruction.</p>
+            <p>They finde Jeſuites and Prieſts conſpiring with ill Miniſters of State to deſtroy our Religion: they find ill Miniſters conjoyned together to ſubvert our Lawes and Liberties.</p>
+            <p>They find obſtructions of Juſtice, which is the life bloud of every State, and (having a free paſ<g ref="char:EOLhyphen"/>ſage from the Soveraigne Power, where it is pri<g ref="char:EOLhyphen"/>marily
+<pb n="2" facs="tcp:97059:3"/>
+               <!-- PDF PAGE 62 -->ſeated, as the life bloud in the heart, and thence derived through the ſeverall Judicatories, as through ſo many veines, into all the parts of this great collective Body) doth give warmth and mo<g ref="char:EOLhyphen"/>tion to every part and member, which is nouri<g ref="char:EOLhyphen"/>ſhed and enlivened by it: but being once preclu<g ref="char:EOLhyphen"/>ded, ſtopped, and ſeared up, as the particular muſt of neceſſity faint and languiſh, ſo muſt the whole frame of Government bee diſſolved: and conſe<g ref="char:EOLhyphen"/>quently Soveraignty it ſelfe, which as the heart in the body, is <hi>Primum vivens, &amp; ultimum moriens,</hi> muſt dye and periſh in the generall diſſolution, and all things returne, as in the beginning, <hi>in antiquum Chaos.</hi>
+            </p>
+            <p>They find the propriety of the ſubject invaded and violated, his eſtate rent from him by illegall Taxations, Impoſitions, Monopolies and Projects (almoſt upon every thing which is for the uſe of man) not onely upon ſuperfluities, but neceſſaries; and this to enrich the vermine and caterpillers of the Land, and to impoveriſh the good ſubjects, to take the meane from the children, and give it to dogges.</p>
+            <p>My Lords, If we find theſe things ſo, wee muſt conceive, they muſt bee ill counſels which have brought us into this condition: Theſe counſels have put all into a combuſtion, have diſcouraged the hearts of all true Engliſh men, and have brought two Armies into our bowels, which (as the Vulture upon <hi>Prometheus</hi>) eate through our ſides, and gnaw our very hearts.</p>
+            <q xml:lang="lat">
+               <pb n="3" facs="tcp:97059:3"/>
+               <!-- PDF PAGE 62 -->
+Hinc dolor: ſed unde medicina?</q>
+            <p>Heretofore Parliaments were the <hi>Catholicon,</hi> the Balme of Gilead which healed our wounds, reſtored our Spirits, and made up all the breaches of the Land; But of late yeeres they have beene like the Fig-tree in the Goſpel, without efficacy, without fruit, onely deſtructive to the particular members, who diſcharge their duties and con<g ref="char:EOLhyphen"/>ſciences, no way beneficiall to the Common<g ref="char:EOLhyphen"/>wealth; <hi>Nobis exitiabile, nec Reipub, profuturum,</hi> as he ſaid in <hi>Tacitus;</hi> commonly taken away, as <hi>Elias</hi> was, with a whirle-winde, never coming to any maturity, or to their naturall end; whereas they ſhould bee like that bleſſed old man, who dyeth (<hi>plenus dierum</hi>) in a full age, after hee hath fought a good fight, and overcome all his enemies; as the ſhock of wheat which cometh in in due ſeaſon, to fill our Granaries with Corne, uphold our lives with the ſtaffe of bread.</p>
+            <p>For, Parliaments are our <hi>panis quotidianus,</hi> our true bread; all other wayes are but <hi>Quelques cho<g ref="char:EOLhyphen"/>ſes,</hi> which yeeld no true nouriſhment, breede no good bloud.</p>
+            <p>This very Parliament which hath ſate ſo long, hath all this while but beaten the ayre, and ſtriven againſt the ſtreame; for I may truely ſay, winde and tide have ſtill been againſt us.</p>
+            <p>The ſame ill counſels which firſt raiſed the ſtorme, which almoſt ſhipwrackt the Common<g ref="char:EOLhyphen"/>wealth, do ſtill continue; they blow ſtrong like the Eaſt-wind that brought the Locuſts over the land.</p>
+            <p>
+               <pb n="4" facs="tcp:97059:4"/>
+               <!-- PDF PAGE 63 -->
+Theſe counſels croſſe our deſignes, caſt diffi<g ref="char:EOLhyphen"/>culties in our way, hinder our proceedings, and make all that we doe to be fruitleſſe and ineffectu<g ref="char:EOLhyphen"/>all; they make us to bee not maſters of our buſi<g ref="char:EOLhyphen"/>neſſe, and ſo not maſters of money, which hath been the great buſineſſe of this Parliament, that we might pay the Armies according to our promiſes and engagements.</p>
+            <p>For, (My Lords) our not effecting of the good things which wee had undertaken for the good of the Church and Common-wealth, hath wounded our reputation, and taken off from our credit.</p>
+            <p>Is it not time then (my Lords) that wee ſhould unite and concentrate our ſelves in regard of this <hi>Antiperiſtaſis</hi> and <hi>circumvallation</hi> of hurtfull and malitious intentions and practices againſt us? (My Lords) it is moſt agreeable to nature, and I am ſure, moſt agreeable to reaſon, in reſpect of the preſent conjuncture of our affaires: for one maine engine by which our enemies work our miſchiefe, is by infuſing an opinion and belief into the world, that wee are not united amongſt our ſelves; but that, like <hi>Sampſons</hi> Foxes, we draw ſeverall waies, and tend to ſeverall ends.</p>
+            <p>To defeate then the counſels of theſe <hi>Achito<g ref="char:EOLhyphen"/>phels,</hi> which would involve us, our Religion, our King, our Lawes, our Liberties, all that can bee neere and deare unto an honeſt ſoule, in one uni<g ref="char:EOLhyphen"/>verſall and generall deſolation; to defeate (I ſay) the counſels of ſuch <hi>Achitophels,</hi> the Knights, Ci<g ref="char:EOLhyphen"/>tizens, and Burgeſſes of the Houſe of Commons
+<pb n="5" facs="tcp:97059:4"/>
+               <!-- PDF PAGE 63 -->(knowing themſelves to bee ſpecially intruſted with the preſervation of the whole, and in their conſciences perſwaded that the dangers are ſo imminent that they will admit of no delay) have thought fit to declare their united affections, by entring into an Aſſociation amongſt themſelves, and by making a ſolemne Proteſtation and Vow unto their God, that they will unanimouſly en<g ref="char:EOLhyphen"/>devour to oppoſe and prevent the counſels, and the Counſellors which have brought upon us all theſe miſeries, and feares of greater; to pre<g ref="char:EOLhyphen"/>vent the ends, and bring the Authors of them to condign puniſhment, and thereby diſcharge them<g ref="char:EOLhyphen"/>ſelves both before God and man.</p>
+            <p>The Proteſtation your Lordſhips ſhall have read unto you, together with the grounds and rea<g ref="char:EOLhyphen"/>ſons which have induced the Houſe of Commons to make it, which are prefixed before it by way of Preamble.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <head>The PREAMBLE.</head>
+                        <p>WEe the Knights, Citizens, and Burgeſſes of the Commons houſe in Parliament, find<g ref="char:EOLhyphen"/>ing, to the great griefe of our hearts, that the de<g ref="char:EOLhyphen"/>ſignes of the Prieſts and Jeſuites, and other Adhe<g ref="char:EOLhyphen"/>rents to the See of <hi>Rome,</hi> have of late beene more boldly and frequently put in practice then former<g ref="char:EOLhyphen"/>ly, to the undermining and danger of the ruine of the true reformed Proteſtant Religion in His
+<pb n="6" facs="tcp:97059:5"/>
+                           <!-- PDF PAGE 64 -->Majeſties Dominions eſtabliſhed: And finding alſo that there have beene, and having juſt cauſe to ſuſpect that there ſtill are, even during this ſit<g ref="char:EOLhyphen"/>ting in Parliament, indeavours to ſubvert the fun<g ref="char:EOLhyphen"/>damentall Lawes of England and Ireland, and to introduce the exerciſe of an Arbitrary and Tyran<g ref="char:EOLhyphen"/>nicall Government, by moſt pernicious and wic<g ref="char:EOLhyphen"/>ked Counſels, Practices, Plots, and Conſpira<g ref="char:EOLhyphen"/>ces: And that the long intermiſſion, and unhappy breach of Parliaments hath occaſioned many ille<g ref="char:EOLhyphen"/>gall Taxations, whereupon the Subject hath been proſecuted and grieved: And that divers Innova<g ref="char:EOLhyphen"/>tions and Superſtitions have beene brought into the Church; multitudes driven out of His Maje<g ref="char:EOLhyphen"/>ſties Dominions, Jealouſies raiſed and fomented betwixt the King and His people, a Popiſh Army levied in Ireland, and two Armies brought into the bowels of this Kingdome, to the hazzard of His Majeſties Royall Perſon, the conſumption of the Revenues of the Crowne, and Treaſure of this Kingdome: And laſtly, finding great cauſe of Jealouſie, that indeavours have been, and are uſed to bring the Engliſh Army into a miſunder<g ref="char:EOLhyphen"/>ſtanding of this Parliament, thereby to incline that Army, with force to bring to paſſe thoſe wicked Counſels, Have therefore thought good to joyne our ſelves in a Declaration of our united affections and reſolutions, and to make this enſuing Proteſtation.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <pb n="7" facs="tcp:97059:5"/>
+               <!-- PDF PAGE 64 -->
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <head>The PROTESTATION.</head>
+                        <p>
+                           <hi>I A. B.</hi> doe in the prefence of Almighty God pro<g ref="char:EOLhyphen"/>miſe, vow, and proteſt to maintaine and defend, as farre as lawfully I may, with my life, power, and e<g ref="char:EOLhyphen"/>ſtate, the true Reformed Proteſtant Religion expreſſed in the Doctrine of the Church of England, againſt all Popery and Popiſh Innovations within this Realme, con<g ref="char:EOLhyphen"/>trary to the ſame Doctrine; and according to the duty of my Allegeance, His Majeſties Royall Perſon, Honour, and Eſtate; As alſo the Power and Priviledges of Parliament; The lawfull Rights and Liberties of the Subject, and every perſon that maketh this Proteſtation, in whatſoever hee ſhall doe in the lawfull purſuance of the ſame. And to my power, and as farre as lawfully I may, I will oppoſe, and by all good wayes and meanes indeavour to bring to condigne puniſhment, all ſuch as ſhall either by Force, Practice, Counſels, Plops, Conſpi<g ref="char:EOLhyphen"/>racies, or otherwiſe, doe any thing to the contrary of any thing in this preſent Proteſtation contained. And fur<g ref="char:EOLhyphen"/>ther, that I ſhall in all juſt and honourable wayes in<g ref="char:EOLhyphen"/>deavour to preſerve the Union and Peace between the three Kingdomes of England, Scotland, and Ireland; And neither for hope, feare, nor other reſpect, ſhall re<g ref="char:EOLhyphen"/>linquiſh this Promiſe, Vow, and Proteſtation.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <pb n="8" facs="tcp:97059:6"/>
+               <!-- PDF PAGE 65 -->
+NOte, That becauſe ſome doubts were raiſed by ſeverall perſons out of the Commons Houſe, concerning the meaning of theſe words contained in the Proteſtation lately made by the Members of that Houſe, <hi>viz. The true Reformed Proteſtant Re<g ref="char:EOLhyphen"/>ligion, expreſſed in the Doctrine of the Church of England againſt all Popery and Popiſh Innovations within this Realme, contrary to the ſame Doctrine;</hi> The Houſe of Commons did declare, That by thoſe words, was and is meant only the publick Doctrine profeſſed in the ſaid Church, ſo farre as it is oppoſite to Popery and Popiſh Innovations; And that the ſaid words are not to be extended to the maintaining of any forme of Worſhip, Diſci<g ref="char:EOLhyphen"/>pline, or Government, nor of any Rites or Cere<g ref="char:EOLhyphen"/>monies of the Church of England.</p>
+            <p>MY Lords, The Houſe of Commons have commanded me to preſent unto your Lord<g ref="char:EOLhyphen"/>ſhips this Proteſtation: Every member in that Houſe hath made it, not one refuſing it; and they have ſent it unto your Lordſhips, with an aſſu<g ref="char:EOLhyphen"/>rance of your Lordſhips concurrence in the ſame zeale and affection for the publick ſafety. And it is their deſire your Lordſhips would likewiſe make the ſame Proteſtation, which I humbly leave to your Lordſhips wiſdomes.</p>
+            <div type="part">
+               <pb n="9" facs="tcp:97059:6"/>
+               <!-- PDF PAGE 65 -->
+               <head>Directions for more orderly making of the foreſaid Proteſtation.</head>
+               <p>IT is thought fit that the Proteſtation which the Parliament lately made be taken by the Citie of London, in the ſeverall Pariſh Churches, in the af<g ref="char:EOLhyphen"/>ternoon of ſome Lords day, after Sermon, before the Congregation bee diſſolved, by all Maſters of Families, their ſons, and men-ſervants, in manner and forme following, <hi>viz.</hi>
+               </p>
+               <list>
+                  <item>Firſt, That forthwith notice of this intention bee given to the Miniſter, Church-wardens, and ſome other meet perſons of each Pariſh in <hi>London,</hi> Liberties, and adjacent Pariſhes, and ſome of them to give notice to the reſt of the Pariſhioners.</item>
+                  <item>Secondly, That the Miniſter be entreated (if he pleaſe) to acquaint his Pariſh in his Sermon, either forenoon or afternoon, with the nature of the bu<g ref="char:EOLhyphen"/>ſineſſe, more or leſſe, as hee ſhall think fit, for the better and more ſolemne taking of the ſaid Prote<g ref="char:EOLhyphen"/>ſtation; or if the Miniſter refuſe it, that ſome o<g ref="char:EOLhyphen"/>ther bee intreated to preach that will promote the buſineſſe; or if neither of theſe may bee had, that ſome other convenient courſe bee taken by ſome well affected to the buſineſſe, to ſtay the Pariſh, and communicate, the matter to them.</item>
+                  <item>Thirdly, That the Miniſter or Miniſters of eve<g ref="char:EOLhyphen"/>ry.
+<pb n="10" facs="tcp:97059:7" rendition="simple:additions"/>
+                     <!-- PDF PAGE 66 -->Congregation firſt take it in his or their owne perſon, reading the ſaid Proteſtation in ſo diſtinct a voyce, that all preſent may conveniently hear it, and than all the Aſſembly preſent doe make the ſame Proteſtation diſtinctly after this manner, eve<g ref="char:EOLhyphen"/>ry man taking this Proteſtation into his hand.<lb/>
+                     <q>
+                        <hi>I A. B.</hi> doe in the preſence of Almighty God freely and heartily promiſe, vow, and proteſt the ſame which the leading perſon took, naming the perſon.</q>
+                  </item>
+                  <item>Fourthly, That there be a Regiſter Book wher<g ref="char:EOLhyphen"/>in every man taking this vow or Proteſtation ſub<g ref="char:EOLhyphen"/>ſcribe his name, with his owne hand or mark, and that the names bee taken of ſuch as doe refuſe the fame.</item>
+                  <item>Fifthly, That all the Pariſhioners aboveſaid; whether in Towne, or out of Towne, be earneſtly requeſted to bee preſent at their owne Pariſh Church in the afternoon of that Lords day where<g ref="char:EOLhyphen"/>on it ſhall be taken, that every man may take it in their owne place; and if any bee neceſſarily ab<g ref="char:EOLhyphen"/>ſent, that they may bee deſired to take it the next Lords day after, or ſo ſoon as may bee with con<g ref="char:EOLhyphen"/>vemency.</item>
+                  <item>Sixthly, and laſtly, That all whom it doth not immediately concerne, bee earneſtly requeſted to depart.</item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
